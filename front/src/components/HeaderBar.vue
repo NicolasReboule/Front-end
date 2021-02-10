@@ -2,10 +2,10 @@
     <div class="div">
         <h1 class="h1">
             Post App
-        </h1>
-         <h2 class="h2">
+            <span class="h2">
             Home Login Signup
-        </h2>
+            </span>
+        </h1>
     </div>
 </template>
 
@@ -23,7 +23,7 @@
         text-size-adjust: 100px;
     }
     .h2 {
-        text-indent: 1450px;
+        margin-left: 1300px;
         word-spacing: 50px;
         font-family: 'Open Sans', sans-serif;
         color: #FBFBFB;
