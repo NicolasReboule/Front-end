@@ -16,6 +16,7 @@
 
 <style lang="scss" scoped>
     .h1 {
+        font-size: 35px;
         text-indent: 50px;
         text-align: left;
         font-family: 'Lobster', cursive;
@@ -23,6 +24,7 @@
         text-size-adjust: 100px;
     }
     .h2 {
+        font-size: 20px;
         margin-left: 1300px;
         word-spacing: 50px;
         font-family: 'Open Sans', sans-serif;
