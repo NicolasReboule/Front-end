@@ -16,10 +16,17 @@
 
 <style lang="scss" scoped>
     .h1 {
+        size: 85ch;
+        text-indent: 50px;
+        text-align: left;
         font-family: 'Lobster', cursive;
         color: #FBFBFB;
+        text-size-adjust: 100px;
     }
     .h2 {
+        text-indent: 1450px;
+        word-spacing: 50px;
+        font-family: 'Open Sans', sans-serif;
         color: #FBFBFB;
     }
     .div {
