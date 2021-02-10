@@ -16,7 +16,6 @@
 
 <style lang="scss" scoped>
     .h1 {
-        size: 85ch;
         text-indent: 50px;
         text-align: left;
         font-family: 'Lobster', cursive;
